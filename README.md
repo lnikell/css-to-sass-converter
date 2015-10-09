@@ -1,4 +1,6 @@
 # CSS to SASS and Stylus converter for Sublime Text 3
+
+[![Join the chat at https://gitter.im/lnikell/css-converter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/lnikell/css-converter?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 **STOP WASTING YOUR TIME** removing brackets, semicolons and formating any css inserted from your browser to Sublime Text.
 
 ![Example usage]
