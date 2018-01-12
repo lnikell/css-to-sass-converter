@@ -1,3 +1,8 @@
-[
-  { "keys": ["ctrl+v"], "command": "css_to_sass" }
-]
+ [{
+     "keys": ["ctrl+v"],
+     "command": "css_to_sass",
+     "context": [{
+         "key": "selector",
+         "operand": "source.stylus, source.sass"
+     }]
+ }]
